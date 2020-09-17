@@ -16,3 +16,6 @@ Strings outside the slide are not extracted.
 - Windows
 - PowerPoint
 - Perl (5.26 or above)
+
+## License
+MIT
