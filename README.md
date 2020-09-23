@@ -19,3 +19,6 @@ Strings outside the slide are not extracted.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
